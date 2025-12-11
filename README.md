@@ -1,6 +1,6 @@
 # DS632PE-DATA-VISUALIZATION-TECHNIQUES SYLLABUS
 ## Course Objectives: 
-• To understand various data visualization techniques  
+- To understand various data visualization techniques  
 ## Course Outcomes: 
 - Know the historical development and evolution of data visualization techniques.
 - Analyze and visualize high-dimensional datasets using appropriate techniques.
