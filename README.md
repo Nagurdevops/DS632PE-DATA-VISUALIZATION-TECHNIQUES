@@ -2,10 +2,10 @@
 ## Course Objectives: 
 • To understand various data visualization techniques  
 ## Course Outcomes: 
-• Know the historical development and evolution of data visualization techniques. 
-• Analyze and visualize high-dimensional datasets using appropriate techniques. 
-• Visualize large multidimensional datasets using appropriate methods. 
-• Create insightful visual representations for diverse types of data.  
+- Know the historical development and evolution of data visualization techniques.
+- Analyze and visualize high-dimensional datasets using appropriate techniques.
+- Visualize large multidimensional datasets using appropriate methods.
+- Create insightful visual representations for diverse types of data.  
 
 ## UNIT - I 
 Introduction, A Brief History of Data Visualization, Good Graphics, Static Graphics.  
